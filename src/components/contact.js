@@ -116,8 +116,8 @@ class Contact extends Component{
 			    </div>
 
 			    <div>
-			    	<button onClick={() => this.nextPage()}>Next</button>
 			    	<button onClick={() => this.prevPage()}>Previous</button>
+			    	<button onClick={() => this.nextPage()}>Next</button>
 			    </div>
 			  
 		    </div>
